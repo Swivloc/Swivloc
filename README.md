@@ -1,5 +1,5 @@
 - Hi, I’m Joseph 
-- I’m currently learning javascript, c# and java
+- I’m currently learning c# 
 - you can reach me on discord: ◤Joseթh◢#1829 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joseph039)](https://github.com/anuraghazra/github-readme-stats)
