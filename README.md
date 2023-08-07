@@ -1,6 +1,6 @@
 - Hi, I’m Joseph 
 - I’m currently learning java, Kotlin, rust
-- you can reach me on discord: Joseph__#1829
+- you can reach me on discord: Swivloc
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swivloc)](https://github.com/anuraghazra/github-readme-stats)
 <!---
